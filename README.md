@@ -8,7 +8,7 @@ Sam Mei
 Cameron Wong
 
 ## Demo Video
-[![Demo Video](https://img.youtube.com/vi/QrbDGa5DcB0/0.jpg)](https://www.youtube.com/watch?v=QrbDGa5DcB0&feature=youtu.be)
+[![Demo Data Video](https://img.youtube.com/vi/QrbDGa5DcB0/0.jpg)](https://www.youtube.com/watch?v=QrbDGa5DcB0&feature=youtu.be)
 
 ## Folder Structure
 ```js
